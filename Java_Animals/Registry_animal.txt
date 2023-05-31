@@ -1,0 +1,4 @@
+Animal [name = Sharik, birthDate = 2022-05-27, command = [Sleep, Eat, Voice], class = pet, under class = dog ]
+Animal [name = Sivka-Burka, birthDate = 2021-03-20, command = [Sleep, Eat, Voice], class = pack_animal, under class = horse, lifting weight = 100 ]
+Animal [name = Barsik, birthDate = 2023-05-31, command = [Sleep, Eat, Voice], class = pet, under class = cat ]
+Animal [name = Kesha, birthDate = 2023-05-31, command = [Sleep, Eat, Voice], class = pet, under class = cat ]
